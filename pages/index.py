@@ -31,7 +31,7 @@ layout = html.Div(
                                     "GitHub",
                                     leftIcon=DashIconify(icon="line-md:github-loop"),
                                 ),
-                                href="https://github.com",
+                                href="https://github.com/pip-install-python/dash-vis/blob/master/pages/graph3d/graph3d_animated.py",
                             ),
                         ]
                     ),
@@ -57,7 +57,7 @@ layout = html.Div(
                                     "GitHub",
                                     leftIcon=DashIconify(icon="line-md:github-loop"),
                                 ),
-                                href="https://github.com",
+                                href="https://github.com/pip-install-python/dash-vis/blob/master/pages/timeline/basic_timeline_example.py",
                             ),
                         ]
                     ),
@@ -80,7 +80,7 @@ layout = html.Div(
                                     "GitHub",
                                     leftIcon=DashIconify(icon="line-md:github-loop"),
                                 ),
-                                href="https://github.com",
+                                href="https://github.com/pip-install-python/dash-vis/blob/master/pages/graph2d/graph2d.py",
                             ),
                         ]
                     ),
@@ -104,7 +104,7 @@ layout = html.Div(
                                     color="black",
                                     leftIcon=DashIconify(icon="line-md:github-loop"),
                                 ),
-                                href="https://github.com",
+                                href="https://github.com/pip-install-python/dash-vis/blob/master/pages/network/image_network.py",
                             ),
                         ]
                     ),
